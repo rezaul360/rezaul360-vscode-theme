@@ -1,0 +1,90 @@
+{
+  "name": "rezaul360-theme",
+  "displayName": "Rezaul360 Theme",
+  "description": "Official VS Code theme of Rezaul360!",
+  "icon": "images/logo.png",
+  "version": "0.0.4",
+  "publisher": "Rezaul360Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rezaul360/rezaul360-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.16.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "rezaul 360",
+    "rezaul360theme",
+    "rezaul"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rezaul360 Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/default-color-theme.json"
+      },
+      {
+        "label": "Rezaul360 - Peace of the eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/peace-of-eye-theme.json"
+      },
+      {
+        "label": "Rezaul360 - Simple as light",
+        "uiTheme": "vs",
+        "path": "./themes/simple-as-light-theme.json"
+      },
+      {
+        "label": "Rezaul360 Theme - Dracula version",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-theme.json"
+      },
+      {
+        "label": "Rezaul360 - Peace of the eye - Dracula version",
+        "uiTheme": "vs-dark",
+        "path": "./themes/peace-of-eye-dracula-theme.json"
+      },
+      {
+        "label": "Rezaul360 - Shades of Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shades-of-grey-theme.json"
+      },
+      {
+        "label": "Rezaul360 - Vintage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vintage-theme.json"
+      },
+      {
+        "label": "Rezaul360 - Blue Velvet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue-velvet-theme.json"
+      },
+      {
+        "label": "Rezaul360 - Traditional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traditional-theme.json"
+      },
+      {
+        "label": "Rezaul360 - Professional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/professional-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "",
+    "publisherId": "Rezaul360Theme",
+    "publisherDisplayName": "Rezaul360",
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "preRelease": false,
+    "installedTimestamp": 1654016901197
+  }
+}
